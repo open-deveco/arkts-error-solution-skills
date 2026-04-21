@@ -32,6 +32,7 @@ This skill provides solutions for common ArkTS compilation errors and type misma
 | IDataSource Type Errors | LazyForEach requires IDataSource implementation |
 | Duplicate Entry Errors | Multiple @Entry decorators in same file |
 | Possibly Null Errors | Object possibly null when accessing properties |
+| Cannot Find Module & Override Modifier Conflict | Module import failure and override modifier conflict|
 
 ## Quick Reference
 
@@ -148,6 +149,9 @@ This skill provides solutions for common ArkTS compilation errors and type misma
 ### Window Rect/Size Type Errors
 - [Window Rect/Size Type Error](./reference/window_rect_size_errors.md)
 - [Code Example](./assets/WindowRectSizeError.ets)
+
+### Cannot Find Module & Override Modifier Conflict
+- [Cannot Find Module & Override Modifier Conflict](./reference/module_override_errors.md)
 
 ## Related Resources
 
